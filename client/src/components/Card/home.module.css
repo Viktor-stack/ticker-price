@@ -1,0 +1,195 @@
+.box {
+    position: relative;
+    display: flex;
+    height: 100%;
+    max-width: 100%;
+    overflow-y: hidden;
+    margin-top: 100px;
+}
+
+.lkR3Y {
+    margin-right: 8px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.GEykwb {
+    color: #137333;
+}
+
+.vReuC {
+    display: flex;
+    -webkit-box-align: center;
+    box-align: center;
+    align-items: center;
+    padding: 6px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid #dadce0;
+    white-space: nowrap;
+}
+
+.test {
+    transform: rotate(180deg);
+}
+
+.hEj6ke {
+    display: flex;
+    height: 32px;
+    min-width: 32px;
+    overflow: hidden;
+}
+
+.tGqfud {
+    transform: translateY(calc(-100% + 32px));
+    transition: transform .2s linear;
+}
+
+.n1rUf.uoQxH {
+    background: #e6f4ea;
+    color: #137333;
+}
+
+.n1rUf {
+    -webkit-box-align: center;
+    box-align: center;
+    align-items: center;
+    height: 32px;
+    width: 32px;
+    min-width: 32px;
+    border-radius: 8px;
+    margin-right: 8px;
+    display: flex;
+}
+
+.ZoIEk.ZoIEk {
+    height: 16px;
+    margin: auto;
+}
+
+.NMm5M {
+    fill: currentColor;
+    flex-shrink: 0;
+}
+
+.VKMjFc {
+    display: flex;
+    min-width: 64px;
+    -webkit-box-orient: vertical;
+    flex-direction: column;
+    letter-spacing: .025em;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: .75rem;
+    font-weight: 400;
+    line-height: 1rem;
+    margin-right: 8px;
+    max-width: 120px;
+}
+
+.pKBk1e {
+    color: #202124;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.wzUQBf {
+    color: #3c4043;
+}
+
+.lh92 {
+    height: 16px;
+    overflow: hidden;
+    display: block;
+}
+
+.s1OkXb {
+    transform: translateY(calc(-100% + 16px));
+    transition: transform .2s linear;
+}
+
+.YMlKec {
+    display: flex;
+    align-items: center;
+}
+
+.T7Akdb {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-orient: vertical;
+    letter-spacing: .025em;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: .75rem;
+    font-weight: 400;
+    line-height: 1rem;
+    text-align: right;
+}
+
+.a3qxNc {
+    min-width: unset;
+    font-weight: 500;
+    height: 16px;
+}
+
+.NydbP {
+    height: 32px;
+    overflow: hidden;
+    display: inline-block;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.P2Luy.Ez2Ioe {
+    color: #137333;
+}
+
+.t5mBV {
+    transform: translateY(calc(-100% + 16px));
+}
+
+.Ez2Ioe {
+    color: #137333;
+}
+
+.zWwE1 {
+    /*transform: translateY(calc(-100% + 28px));*/
+    transition: transform .2s linear;
+}
+
+.V7hZne {
+    box-align: end;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.JwB6zf {
+    display: flex;
+    box-align: center;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+}
+
+.SEGxAb {
+    overflow: hidden;
+    display: block;
+}
+
+.BAftM {
+    transition: transform .2s linear;
+    display: flex;
+    flex-direction: column;
+}
+
+.P2Luy.Ez2Ioe {
+    color: #137333;
+}
+
+.Ez2Ioe {
+    color: #137333;
+}
+
+

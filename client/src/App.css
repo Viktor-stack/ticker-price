@@ -1,0 +1,25 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.app {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #adacac;
+}
+
+.canvas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+canvas {
+    border: 1px solid #000;
+    background-color: #fff;
+}
