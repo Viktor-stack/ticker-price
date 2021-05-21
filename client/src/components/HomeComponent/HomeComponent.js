@@ -11,11 +11,7 @@ const HomeComponent = () => {
     return (
         <div className={s.container}>
             <div className={s.box}>
-                {ticker.map((i, index) => {
-                    return (
-                        <Card key={index} i={i} index={index} tickerOld={tickerOld[index]}/>
-                    )
-                })}
+                {ticker.map((i, index) => <Card key={index} i={i} index={index} tickerOld={tickerOld[index]}/>)}
             </div>
         </div>
     );

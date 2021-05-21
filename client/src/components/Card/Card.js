@@ -7,12 +7,13 @@ class Card extends Component {
         classArrow: "",
         colorBg: ""
     }
+
     render() {
         if (this.props.tickerOld) {
             if (this.props.i.price > this.props.tickerOld.price) {
                 this.color.classText = "greenText"
                 this.color.classArrow = "greenArrow"
-                this.color.colorBg = "#e6f4ea"
+                this.color.colorBg = ""
             } else if (this.props.i.price < this.props.tickerOld.price) {
                 this.color.colorBg = "colorBg"
                 this.color.classArrow = "redArrow"
@@ -42,7 +43,6 @@ class Card extends Component {
                         <div className={s.wzUQBf}>
                             <span className={s.lh92}>
                                 <span className={s.s1OkXb}>
-                                    {/*{i.price > tickerOld.price ? style.green : style.red}*/}
                                     <div className={s.YMlKec + " " + this.color.classText}>{this.props.i.price}</div>
                                 </span>
                             </span>
