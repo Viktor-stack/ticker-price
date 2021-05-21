@@ -21,3 +21,18 @@ code {
 .greenText {
     color: green;
 }
+
+.greenArrow {
+    transform: rotate(0deg);
+    color: green;
+}
+
+.redArrow {
+    transform: rotate(180deg);
+    color: red;
+}
+
+.colorBg {
+    background: #f4e6e6 !important;
+}
+

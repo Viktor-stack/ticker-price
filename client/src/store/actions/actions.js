@@ -1,6 +1,5 @@
 export const UPDATE_TICKER = "UPDATE_TICKER"
 export const UPDATE_TICKER_OLD = "UPDATE_TICKER_OLD"
-export const UPDATE_COLOR = "UPDATE_COLOR"
 
 export function updateTicker(update) {
     return {
@@ -17,8 +16,3 @@ export function updateTickerOld(update) {
 
 }
 
-export function updateColor() {
-    return {
-        type: UPDATE_COLOR,
-    }
-}
